@@ -1,0 +1,9 @@
+id = "solarized-osaka-theme"
+name = "Solarized Osaka"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mauricio R Duarte"]
+description = "A Solarized-inspired dark theme for Zed, inspired by craftzdog's solarized-osaka.nvim"
+repository = "https://github.com/mauriciord/zed-solarized-osaka-theme"
+
+themes = ["themes/solarized-osaka.json"]
