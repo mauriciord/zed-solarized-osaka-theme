@@ -25,7 +25,7 @@ Highlights:
 Clone and install as a dev extension:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USER/solarized-osaka-theme.git
+git clone https://github.com/mauriciord/zed-solarized-osaka-theme.git
 ```
 
 In Zed: `cmd-shift-p` → `zed: install dev extension` → select the cloned directory.
