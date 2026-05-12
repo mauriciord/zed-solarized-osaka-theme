@@ -40,3 +40,7 @@ Edit `themes/solarized-osaka.json` and reload via `zed: reload extensions` to se
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+## Preview
+
+![Preview](preview.png)
