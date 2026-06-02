@@ -59,7 +59,7 @@
         "tab.inactive_background": "#0f1419",
         "tab.active_background": "#002b36",
         "search.match_background": "#ffc10032",
-        "scrollbar_thumb.background": "#79797966",
+        "scrollbar.thumb.background": "#79797966",
         "scrollbar.thumb.hover_background": "#646464b3",
         "scrollbar.thumb.border": "#79797966",
         "scrollbar.track.background": "#0f1419",
