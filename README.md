@@ -1,4 +1,4 @@
-# Solarized Osaka for Zed
+# Solarized Osaka Deep for Zed
 
 A Solarized-inspired dark theme for the [Zed editor](https://zed.dev), with a deeper, more saturated background palette.
 
@@ -6,9 +6,9 @@ Inspired by [craftzdog/solarized-osaka.nvim](https://github.com/craftzdog/solari
 
 ## Install
 
-In Zed, open the command palette (`cmd-shift-p` / `ctrl-shift-p`) and run `zed: extensions`. Search for **Solarized Osaka** and click Install.
+In Zed, open the command palette (`cmd-shift-p` / `ctrl-shift-p`) and run `zed: extensions`. Search for **Solarized Osaka Deep** and click Install.
 
-Then activate it via `cmd-k cmd-t` (or `ctrl-k ctrl-t` on Linux) and pick **Solarized Osaka**.
+Then activate it via `cmd-k cmd-t` (or `ctrl-k ctrl-t` on Linux) and pick **Solarized Osaka Deep**.
 
 ## Preview
 
